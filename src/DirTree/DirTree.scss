@@ -1,0 +1,14 @@
+.dirtree__node {
+  white-space: nowrap;
+}
+
+.dirtree-node__text--bold {
+  font-weight: bold;
+}
+.dirtree-node__icon {
+  color: #f2d06c;
+}
+
+.ant-tree .ant-tree-node-content-wrapper.ant-tree-node-selected.ant-tree-node-selected {
+  background-color: transparent;
+}
